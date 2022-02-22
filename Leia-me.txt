@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------------
+			Estou aprendendo a mecher com esta engine
+			faz um bom tempo, mas só consegui abrir a
+			agenda para usar ela agora em 2022.
+			
+			Estou vasculhando por forums e sites da
+			internet procurando scripts e partes de
+			projetos que eu consiga estudar e reuti
+			liar para fazer algo interessante.
+			
+			O jogo "mapinha" é um teste de mapa que
+			fiz usando a BUILD2 de Ken Silverman.
+
+			Controles do jogo são: movimentação
+						W,A,S,D
+					       
+                                               pulo
+						SPACE/ESPAÇO
+
+					       ver ao redór
+					        MOUSE                                               
+
+		                  	       atirar
+                                                Click Esquerdo
+				
+					       reiniciar quando morto
+						Click Direito
+			É apenas um teste com coisas que gosto
